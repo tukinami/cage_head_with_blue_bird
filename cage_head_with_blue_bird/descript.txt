@@ -1,0 +1,29 @@
+charset,UTF-8
+name,鳥籠頭と青い鳥
+type,shell
+id,cage_head_with_blue_bird
+craftman,tukinami seika
+craftmanw,月波 清火
+craftmanurl,https://github.com/tukinami/cage_head_with_blue_bird
+
+seriko.use_self_alpha,1
+
+readme,readme.txt
+readme.charset,UTF-8
+
+// オーナードローメニュー
+menu.background.bitmap.filename,menu/background.png
+menu.foreground.bitmap.filename,menu/foreground.png
+menu.sidebar.bitmap.filename,menu/sidebar.png
+
+menu.background.alignment,rightbottom
+menu.foreground.alignment,rightbottom
+menu.sidebar.alignment,top
+
+menu.background.font.color.r,8
+menu.background.font.color.g,6
+menu.background.font.color.b,4
+
+menu.foreground.font.color.r,8
+menu.foreground.font.color.g,6
+menu.foreground.font.color.b,4

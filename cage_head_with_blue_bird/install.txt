@@ -1,0 +1,4 @@
+charset,UTF-8
+name,鳥籠頭と青い鳥
+type,shell
+directory,cage_head_with_blue_bird
