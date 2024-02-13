@@ -1,17 +1,17 @@
-charset,UTF-8
-name,魑･邀鬆ｭ縺ｨ髱偵＞魑･:遽晉↓
+charset,Shift_JIS
+name,鳥籠頭と青い鳥:篝火
 type,shell
 id,cage_head_with_blue_bird_arranged
 craftman,tukinami seika
-craftmanw,譛域ｳ｢ 貂�轣ｫ
+craftmanw,月波 清火
 craftmanurl,https://github.com/tukinami/cage_head_with_blue_bird
 
 seriko.use_self_alpha,1
 
 readme,readme.txt
-readme.charset,UTF-8
+readme.charset,Shift_JIS
 
-// 繧ｪ繝ｼ繝翫�ｼ繝峨Ο繝ｼ繝｡繝九Η繝ｼ
+// オーナードローメニュー
 menu.background.bitmap.filename,menu/background.png
 menu.foreground.bitmap.filename,menu/foreground.png
 menu.sidebar.bitmap.filename,menu/sidebar.png

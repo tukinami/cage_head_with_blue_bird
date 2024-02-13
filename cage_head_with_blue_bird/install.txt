@@ -1,4 +1,4 @@
-charset,UTF-8
-name,é³¥ç± é ­ã¨é’ã„é³¥
+charset,Shift_JIS
+name,’¹âÄ“ª‚ÆÂ‚¢’¹
 type,shell
 directory,cage_head_with_blue_bird
