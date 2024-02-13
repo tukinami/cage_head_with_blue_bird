@@ -27,7 +27,7 @@ surface0
 element0,base,pose\pose_normal.png,0,0
 
 collisionex0,Head,region,collision\collision_normal.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_normal.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_normal.png,255,0,0
 collisionex2,Hand,region,collision\collision_normal.png,0,255,0
 collisionex3,Tie,region,collision\collision_normal.png,255,255,0
 }
@@ -37,7 +37,7 @@ surface1
 element0,base,pose\pose_explain.png,0,0
 
 collisionex0,Head,region,collision\collision_explain.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_explain.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_explain.png,255,0,0
 collisionex2,Hand,region,collision\collision_explain.png,0,255,0
 collisionex3,Tie,region,collision\collision_explain.png,255,255,0
 }
@@ -47,7 +47,7 @@ surface2
 element0,base,pose\pose_warry.png,0,0
 
 collisionex0,Head,region,collision\collision_warry.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_warry.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_warry.png,255,0,0
 collisionex2,Hand,region,collision\collision_warry.png,0,255,0
 collisionex3,Tie,region,collision\collision_warry.png,255,255,0
 }
@@ -57,7 +57,7 @@ surface3
 element0,base,pose\pose_thinking.png,0,0
 
 collisionex0,Head,region,collision\collision_thinking.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_thinking.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_thinking.png,255,0,0
 collisionex2,Hand,region,collision\collision_thinking.png,0,255,0
 collisionex3,Tie,region,collision\collision_thinking.png,255,255,0
 }
@@ -67,7 +67,7 @@ surface4
 element0,base,pose\pose_silence.png,0,0
 
 collisionex0,Head,region,collision\collision_silence.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_silence.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_silence.png,255,0,0
 collisionex2,Hand,region,collision\collision_silence.png,0,255,0
 collisionex3,Tie,region,collision\collision_silence.png,255,255,0
 }
@@ -77,7 +77,7 @@ surface5
 element0,base,pose\pose_surprise-1.png,0,0
 
 collisionex0,Head,region,collision\collision_surprise-1.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_surprise-1.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_surprise-1.png,255,0,0
 collisionex2,Hand,region,collision\collision_surprise-1.png,0,255,0
 collisionex3,Tie,region,collision\collision_surprise-1.png,255,255,0
 }
@@ -87,7 +87,7 @@ surface6
 element0,base,pose\pose_hold-tie.png,0,0
 
 collisionex0,Head,region,collision\collision_hold-tie.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_hold-tie.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_hold-tie.png,255,0,0
 collisionex2,Hand,region,collision\collision_hold-tie.png,0,255,0
 collisionex3,Tie,region,collision\collision_hold-tie.png,255,255,0
 }
@@ -97,7 +97,7 @@ surface7
 element0,base,pose\pose_shy.png,0,0
 
 collisionex0,Head,region,collision\collision_shy.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_shy.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_shy.png,255,0,0
 collisionex2,Hand,region,collision\collision_shy.png,0,255,0
 collisionex3,Tie,region,collision\collision_shy.png,255,255,0
 }
@@ -107,7 +107,7 @@ surface8
 element0,base,pose\pose_good.png,0,0
 
 collisionex0,Head,region,collision\collision_good.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_good.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_good.png,255,0,0
 collisionex2,Hand,region,collision\collision_good.png,0,255,0
 collisionex3,Tie,region,collision\collision_good.png,255,255,0
 }
@@ -117,7 +117,7 @@ surface9
 element0,base,pose\pose_one.png,0,0
 
 collisionex0,Head,region,collision\collision_one.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_one.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_one.png,255,0,0
 collisionex2,Hand,region,collision\collision_one.png,0,255,0
 collisionex3,Tie,region,collision\collision_one.png,255,255,0
 }
@@ -127,7 +127,7 @@ surface100
 element0,base,pose\pose_two.png,0,0
 
 collisionex0,Head,region,collision\collision_two.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_two.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_two.png,255,0,0
 collisionex2,Hand,region,collision\collision_two.png,0,255,0
 collisionex3,Tie,region,collision\collision_two.png,255,255,0
 }
@@ -137,7 +137,7 @@ surface101
 element0,base,pose\pose_hi.png,0,0
 
 collisionex0,Head,region,collision\collision_hi.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_hi.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_hi.png,255,0,0
 collisionex2,Hand,region,collision\collision_hi.png,0,255,0
 collisionex3,Tie,region,collision\collision_hi.png,255,255,0
 }
@@ -147,7 +147,7 @@ surface102
 element0,base,pose\pose_kata-sukume.png,0,0
 
 collisionex0,Head,region,collision\collision_kata-sukume.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_kata-sukume.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_kata-sukume.png,255,0,0
 collisionex2,Hand,region,collision\collision_kata-sukume.png,0,255,0
 collisionex3,Tie,region,collision\collision_kata-sukume.png,255,255,0
 }
@@ -157,7 +157,7 @@ surface103
 element0,base,pose\pose_nayami.png,0,0
 
 collisionex0,Head,region,collision\collision_nayami.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_nayami.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_nayami.png,255,0,0
 collisionex2,Hand,region,collision\collision_nayami.png,0,255,0
 collisionex3,Tie,region,collision\collision_nayami.png,255,255,0
 }
@@ -167,7 +167,7 @@ surface104
 element0,base,pose\pose_atama-kakae.png,0,0
 
 collisionex0,Head,region,collision\collision_atama-kakae.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_atama-kakae.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_atama-kakae.png,255,0,0
 collisionex2,Hand,region,collision\collision_atama-kakae.png,0,255,0
 collisionex3,Tie,region,collision\collision_atama-kakae.png,255,255,0
 }
@@ -177,7 +177,7 @@ surface105
 element0,base,pose\pose_angry.png,0,0
 
 collisionex0,Head,region,collision\collision_angry.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_angry.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_angry.png,255,0,0
 collisionex2,Hand,region,collision\collision_angry.png,0,255,0
 collisionex3,Tie,region,collision\collision_angry.png,255,255,0
 }
@@ -187,7 +187,7 @@ surface106
 element0,base,pose\pose_pray.png,0,0
 
 collisionex0,Head,region,collision\collision_pray.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_pray.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_pray.png,255,0,0
 collisionex2,Hand,region,collision\collision_pray.png,0,255,0
 collisionex3,Tie,region,collision\collision_pray.png,255,255,0
 }
@@ -197,7 +197,7 @@ surface107
 element0,base,pose\pose_surprise-2.png,0,0
 
 collisionex0,Head,region,collision\collision_surprise-2.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_surprise-2.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_surprise-2.png,255,0,0
 collisionex2,Hand,region,collision\collision_surprise-2.png,0,255,0
 collisionex3,Tie,region,collision\collision_surprise-2.png,255,255,0
 }
@@ -207,7 +207,7 @@ surface108
 element0,base,pose\pose_te-age.png,0,0
 
 collisionex0,Head,region,collision\collision_te-age.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_te-age.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_te-age.png,255,0,0
 collisionex2,Hand,region,collision\collision_te-age.png,0,255,0
 collisionex3,Tie,region,collision\collision_te-age.png,255,255,0
 }
@@ -217,7 +217,7 @@ surface109
 element0,base,pose\pose_hirameki.png,0,0
 
 collisionex0,Head,region,collision\collision_hirameki.png,255,0,255
-collisionex1,Shoulder,region,collision\collision_hirameki.png,,255,0,0
+collisionex1,Shoulder,region,collision\collision_hirameki.png,255,0,0
 collisionex2,Hand,region,collision\collision_hirameki.png,0,255,0
 collisionex3,Tie,region,collision\collision_hirameki.png,255,255,0
 }
